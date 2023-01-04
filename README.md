@@ -5,3 +5,4 @@ Python projects covering different real time use cases and domains.
 3. Email Slicer with Python
 4. Story Generator with Pyhton
 5. Python Program to Gnerate Password
+6. Rock, Paper and Scissors game with python
