@@ -8,3 +8,4 @@ Python projects covering different real time use cases and domains.
 6. Rock, Paper and Scissors game with python
 7. Dice Roll Simulator with Pyhton
 8. QR Code Generator with Python
+9. Quiz Game with Python
