@@ -11,3 +11,4 @@ Python projects covering different real time use cases and domains.
 9. Quiz Game with Python
 10. Print Colored Text with Pyhton
 11. Convert Fahrenheit to Celsius with Python
+12. Taking Multiple User Inputs
