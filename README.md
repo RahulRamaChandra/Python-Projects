@@ -10,3 +10,4 @@ Python projects covering different real time use cases and domains.
 8. QR Code Generator with Python
 9. Quiz Game with Python
 10. Print Colored Text with Pyhton
+11. BMI Calculator with Python
