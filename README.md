@@ -1,14 +1,16 @@
 # Python-Projects
 Python projects covering different real time use cases and domains.
-1. Acronyms using Python
+1. Create Acronyms using Python
 2. Alarm Clock with Python
 3. Email Slicer with Python
-4. Story Generator with Pyhton
-5. Python Program to Gnerate Password
-6. Rock, Paper and Scissors game with python
-7. Dice Roll Simulator with Pyhton
-8. QR Code Generator with Python
-9. Quiz Game with Python
-10. Print Colored Text with Pyhton
-11. Convert Fahrenheit to Celsius with Python
-12. Taking Multiple User Inputs
+4. Story Generator with Python
+5. Generate Password with Python
+6. Play Rock, Paper, and Scissors with Python
+7. Dice Roll Simulator
+8. QR Code Generator
+9. Animal Quiz Game
+10. Print Coloured Text
+11. BMI Calculator
+12. Fahrenheit to Celcius Converter
+13. Taking Multiple User Inputs
+14. Convert Roman Numbers to Decimals
