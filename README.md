@@ -14,3 +14,6 @@ Python projects covering different real time use cases and domains.
 12. Fahrenheit to Celcius Converter
 13. Taking Multiple User Inputs
 14. Convert Roman Numbers to Decimals
+15. Weight Converter GUI
+16. Text Editor GUI
+17. Student Details GUI
